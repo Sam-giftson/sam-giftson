@@ -1,6 +1,6 @@
 # Hi, This is Sam 👋
 
-## Full Stack Developer | Java Developer | Learning AI Automation
+## Java Developer | Full Stack Developer | AI Enthusiast
 
 - 🌱 I’m currently learning Java Spring Boot
 - 📫 Reach me: samgiftson2003@gmail.com
