@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Java Spring Boot
 - 📫 Reach me: samgiftson2003@gmail.com
-- [Medium](https://medium.com/@samgiftson2003)
+- 📌[I Talk About Tech Blogs On Medium](https://medium.com/@samgiftson2003)
 
 ---
 
@@ -14,11 +14,6 @@
   <a href="https://www.linkedin.com/in/sam-giftson/" style="margin-right:10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
-
-  <a href="https://medium.com/@samgiftson2003">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/medium.svg" width="40" style="filter: invert(1);" />
-  </a>
-</p>
 
 ---
 
