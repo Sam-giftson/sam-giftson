@@ -4,18 +4,21 @@
 
 - 🌱 I’m currently learning Java Spring Boot
 - 📫 Reach me: samgiftson2003@gmail.com
+- [Medium](https://medium.com/@samgiftson2003)
 
 ---
 
 ## Connect with me:
 
-<a href="https://www.linkedin.com/in/sam-giftson/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="40" style="background:white; padding:6px; border-radius:6px;" />
-</a>
+<p>
+  <a href="https://www.linkedin.com/in/sam-giftson/" style="margin-right:10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+  </a>
 
-<a href="https://medium.com/@samgiftson2003">
-  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
+  <a href="https://medium.com/@samgiftson2003">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/medium.svg" width="40" style="filter: invert(1);" />
+  </a>
+</p>
 
 ---
 
