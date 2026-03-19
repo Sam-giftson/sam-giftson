@@ -14,7 +14,7 @@
 </a>
 
 <a href="https://medium.com/@samgiftson2003">
-  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/medium.svg" width="40" />
 </a>
 
 ---
