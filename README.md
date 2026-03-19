@@ -8,35 +8,50 @@
 ---
 
 ## Connect with me:
-[LinkedIn](https://www.linkedin.com/in/sam-giftson/)
+<a href="https://www.linkedin.com/in/sam-giftson/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+</a>
 
 ---
 
 ## Languages and Tools:
 
 ### Frontend:
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
-
-### Backend:
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
-![Spring](https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=spring)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-darkgreen?style=for-the-badge&logo=springboot)
-![Hibernate](https://img.shields.io/badge/Hibernate-brown?style=for-the-badge&logo=hibernate)
-![J2EE](https://img.shields.io/badge/J2EE-blue?style=for-the-badge&logo=java)
-
-### Database:
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50"/>
 
 ---
 
-## Tools:
-![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
-![Eclipse](https://img.shields.io/badge/Eclipse-purple?style=for-the-badge&logo=eclipseide)
-![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
-![Notion](https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion)
-![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-red?style=for-the-badge&logo=autodesk)
-![Canva](https://img.shields.io/badge/Canva-blue?style=for-the-badge&logo=canva)
+### Backend:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg" width="50"/>
+
+
+---
+
+### Databases:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+
+---
+
+### Programming Languages:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+
+---
+
+### AI Tools:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50"/>
+
+---
+
+### Other Tools:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
