@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, This is Sam 👋
 
-<!--
-**Sam-giftson/sam-giftson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Developer | Java Developer | Learning Backend
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Spring Boot
+- 🌐 My Portfolio: https://your-portfolio-link
+- 📫 Reach me: your-email@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Connect with me:
+[LinkedIn](https://linkedin.com/in/yourprofile)
+
+---
+
+## Languages and Tools:
+
+### Frontend:
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JS-yellow?style=for-the-badge&logo=javascript)
+
+### Backend:
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
+![Spring](https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=spring)
+
+### Database:
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
