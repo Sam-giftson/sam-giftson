@@ -2,8 +2,8 @@
 
 ## Java Developer | Full Stack Developer | Spring  
 
+-💻[ Portfolio](https://sam-giftson.vercel.app/)
 - 🌱 I’m currently learning GenAI
-- 💻[ Portfolio](https://sam-giftson.vercel.app/)
 - 📫 Reach me: samgiftson2003@gmail.com
 - 📌[I Talk About Tech Blogs On Medium](https://medium.com/@samgiftson2003)
 
