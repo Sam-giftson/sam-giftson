@@ -56,3 +56,4 @@
 ![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-red?style=for-the-badge&logo=autodesk)
 ![Canva](https://img.shields.io/badge/Canva-blue?style=for-the-badge&logo=canva)
+![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
