@@ -50,6 +50,7 @@
 ### Tools:
 ![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
 ![Eclipse](https://img.shields.io/badge/Eclipse-purple?style=for-the-badge&logo=eclipseide)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-black?style=for-the-badge&logo=intellijidea)
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
 ![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
