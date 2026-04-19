@@ -51,9 +51,10 @@
 ![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
 ![Eclipse](https://img.shields.io/badge/Eclipse-purple?style=for-the-badge&logo=eclipseide)
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
 ![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
 ![Notion](https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion)
 ![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-red?style=for-the-badge&logo=autodesk)
 ![Canva](https://img.shields.io/badge/Canva-blue?style=for-the-badge&logo=canva)
-![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
+
