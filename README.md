@@ -1,11 +1,11 @@
 # Hi, This is Sam 👋
 
-## Java Developer | Full Stack Developer | Spring  
+## Java Developer | Full Stack Developer | Spring
 
-- 💻[ Portfolio](https://sam-giftson.vercel.app/)
+- 💻 [Portfolio](https://sam-giftson.vercel.app/)
 - 🌱 Currently Learning GenAI
 - 📫 Reach me: samgiftson2003@gmail.com
-- 📌[I Write Tech Blogs On Medium](https://medium.com/@samgiftson2003)
+- 📌 [I Write Tech Blogs On Medium](https://medium.com/@samgiftson2003)
 
 ---
 
@@ -15,6 +15,11 @@
   <a href="https://www.linkedin.com/in/sam-giftson/" style="margin-right:10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
+
+  <a href="mailto:samgiftson2003@gmail.com" style="margin-right:10px;">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/>
+  </a>
+</p>
 
 ---
 
@@ -36,14 +41,22 @@
 
 ### Backend:
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-darkgreen?style=for-the-badge&logo=springboot)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-brown?style=for-the-badge&logo=hibernate)
 ![J2EE](https://img.shields.io/badge/J2EE-blue?style=for-the-badge&logo=java)
+
+---
+
+### AI / GenAI:
+![Spring AI](https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
 ---
 
 ### Databases:
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 ![Oracle](https://img.shields.io/badge/Oracle-red?style=for-the-badge&logo=oracle)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
@@ -58,4 +71,3 @@
 ![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-red?style=for-the-badge&logo=autodesk)
 ![Canva](https://img.shields.io/badge/Canva-blue?style=for-the-badge&logo=canva)
-
